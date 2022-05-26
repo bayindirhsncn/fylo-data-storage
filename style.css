@@ -228,8 +228,8 @@ body {
 }
 .secInfo {
     position: absolute;
-    top: 38%;
-    left: 71.7%;
+    top: 32%;
+    left: 67%;
     background-color: white;
     display: flex;
     justify-content: flex-start;
